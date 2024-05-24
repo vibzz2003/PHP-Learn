@@ -52,8 +52,9 @@
     myTest4(); //0
     myTest4(); //1
     myTest4(); //2
-
     
+    print "<h2>" . $z . "</h2>";
+
     ?>
     
 </body>
